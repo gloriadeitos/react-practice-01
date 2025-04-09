@@ -21,3 +21,77 @@ Projeto feito com **React.js** para praticar desenvolvimento de interfaces e com
 - Praticar a criação de componentes reutilizáveis
 - Trabalhar com estado e props
 - Aplicar estilização e responsividade
+
+<br>
+
+---
+
+<br>
+
+
+# 🛠️ Etapas da Criação | 📓 Diário de Projeto
+
+<br>
+
+## ❓Como o projeto foi criado?
+
+<br>
+
+
+#### 1. Para criar um projeto React, utiliza-se o comando:
+
+```
+npx create-react-app nome-do-projeto
+```
+
+#### ❄️ No meu caso, usei:
+
+```
+npx create-react-app react-practice-01
+```
+
+<br>
+
+> 💡 **Dica rápida: diferença entre `npm` e `npx`**
+>
+> 🟢 **`npm install <pacote>`**  
+> Instala um pacote (local ou globalmente).  
+> Use quando você **precisa manter** o pacote instalado na sua máquina
+> para usar várias vezes.
+>
+> 🔵 **`npx <pacote>`**  
+> Executa um pacote **sem instalar** em sua máquina.  
+> Ideal para usar uma única vez, instalando um pacote no seu projeto ou 
+> até mesmo usar esse pacote, sem baixar os arquivos em sua máquina.
+
+<br>
+
+## ❓Como rodar o projeto?
+
+<br>
+
+#### 1. Para rodar um projeto React, primeiro é necessário acessar a pasta do projeto com o comando:
+
+```
+cd nome-do-projeto
+```
+
+#### 2. Depois, pode-se usar o comando abaixo para confirmar que está na pasta certa:
+
+```
+cd .
+```
+
+#### 3. Com isso feito, o projeto pode ser iniciado com:
+
+```
+npm run start
+```
+
+#### ❄️ No meu caso, usei:
+
+```
+cd react-practice-01
+cd .
+npm run start
+```

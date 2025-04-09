@@ -1,0 +1,12 @@
+// Esse é o primeiro arquivo que o React pega para colocar a lógica dele
+
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
