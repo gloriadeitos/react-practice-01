@@ -42,7 +42,7 @@ Projeto feito com **React.js** para praticar desenvolvimento de interfaces e com
 npx create-react-app .
 ```
 
-#### 2. Para criar um projeto React, utiliza-se o comando:
+#### 2. Para criar um projeto React em uma pasta nova, utiliza-se o comando:
 
 ```
 npx create-react-app nome-do-projeto
