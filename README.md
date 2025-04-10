@@ -37,12 +37,20 @@ Projeto feito com **React.js** para praticar desenvolvimento de interfaces e com
 
 <br>
 
+#### 1. Para criar um projeto React a partir da pasta atual, utiliza-se o comando:
+```
+npx create-react-app .
+```
 
-#### 1. Para criar um projeto React, utiliza-se o comando:
+#### 2. Para criar um projeto React, utiliza-se o comando:
 
 ```
 npx create-react-app nome-do-projeto
 ```
+
+> 💡 OBS: O nome do projeto não pode ter letras maiúsculas. No caso de criar na pasta atual, a pasta atual não pode ter letras maiúsculas no nome dela.
+
+<br>
 
 #### ❄️ No meu caso, usei:
 
